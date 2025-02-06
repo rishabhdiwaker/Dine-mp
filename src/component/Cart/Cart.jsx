@@ -14,7 +14,6 @@ export const style = {
   transform: "translate(-50%, -50%)",
   width: 400,
   bgcolor: "background.paper",
-  //   bgcolor: "background.solid",
   outline: "none",
   boxShadow: 24,
   p: 4,
